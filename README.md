@@ -16,7 +16,7 @@ ReactHub is a user-friendly web application that allows users to input their bio
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/reacthub.git
+    git clone https://github.com/your-username/EmojiConnect.git
     ```
 
 2. Navigate to the project directory:
