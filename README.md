@@ -1,5 +1,4 @@
-# ReactHub
-
+# EmojiConnect
 A React application for user interactions and emoji reactions on bios.
 
 ## Description
